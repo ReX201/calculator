@@ -1,8 +1,12 @@
+.min-body{
+				padding-top: 50px;
+}
 .clal{
 				width: 200px;
 				height: 280px;
-				margin-left:75px ;
+				margin-left:380px ;
 				background-color:black ;
+				margin-top: 30px;
 }
 .output{
      padding-top: 10px;
@@ -26,4 +30,10 @@
 .btn{
 				width: 35px;
 				height: 35px;
+}
+.btn1{
+				width: 35px;
+				height: 35px;
+				background-color: red;
+				border: none;
 }
