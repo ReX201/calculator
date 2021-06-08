@@ -1,39 +1,47 @@
-.min-body{
-				padding-top: 50px;
-}
 .clal{
-				width: 200px;
-				height: 280px;
-				margin-left:380px ;
-				background-color:black ;
-				margin-top: 30px;
+				width: 550px;
+				height: 750px;
+				background-color: black; 
+				margin-left: 200px;
+				margin-top: 300px;
 }
 .output{
-     padding-top: 10px;
 				
 }
 #screen{
 				width: 80%;
-				height: 30px;
-				background-color: white;
-				margin-left: 20px;
-				margin-top: 10px;
-				pointer-events: none;
+				height: 80px;
+				margin-left: 60px;
+				margin-top: 80px;
+				font-size: 30px;
 }
 .button{
-			padding-top: 10px;	
+padding-top: 10px;
+padding-left: 70px;
+				
 }
 .row{
-				margin-left: 25px;
-				margin-top: 5px;
+padding-top: 5px;
+		
+			 
 }
 .btn{
-				width: 35px;
-				height: 35px;
+				width: 100px;
+				height: 100px;
+				font-size: 30px;
+				
 }
 .btn1{
-				width: 35px;
-				height: 35px;
+				width:100px;
+				height: 100px;
+				font-size: 30px;
 				background-color: red;
 				border: none;
-}
+}	
+.btn2{
+				width:100px;
+				height: 100px;
+				font-size: 30px;
+				background-color: skyblue;
+				border: none;
+}			
